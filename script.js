@@ -162,13 +162,14 @@ const projects = [
 const certifications = [
   ["CS50", "Harvard CS50", "Harvard / CS50", "https://certificates.cs50.io/2529af81-6d66-43a1-bc69-1bd2d81fe503.pdf?size=letter"],
   ["EXCEL", "Excel do básico ao avançado", "Estudo aprofundado", ""],
+  ["PYTHON", "AI Programming with Python", "https://www.udacity.com/certificate/e/1ad8add4-8b40-11ef-8bb7-f730c6b56189"],
 ];
 
 // Exemplo: image: "images/vue.svg". Deixe vazio para manter o emblema colorido.
 const skills = [
   { name: "Vue", badge: "Vue", color: "#42b883", image: "images/vuejs.png" },
   { name: "React", badge: "Re", color: "#149eca", image: "images/react.png" },
-  { name: "TypeScript", badge: "TS", color: "#3178c6", image: "images/TypeScript.png" },
+  { name: "TypeScript", badge: "TS", color: "#3178c6", image: "images/typescript.png" },
   { name: "JavaScript", badge: "JS", color: "#d4b106", image: "images/js.png" },
   { name: "Tailwind", badge: "Tw", color: "#0ea5b7", image: "images/tailwindcss.png" },
   { name: "HTML", badge: "H5", color: "#e34c26", image: "images/html.png" },
