@@ -78,7 +78,7 @@ const projects = [
     color: "linear-gradient(135deg,#4fc08d,#35495e)",
     url: "https://chokmah-coral.vercel.app/",
     linkLabel: "view",
-    tags: ["Vue", "Web"],
+    tags: ["Vue", "Vite", "Tailwind CSS", "JavaScript"],
     description: {
       pt: 'Minha "biblioteca de Alexandria": um espaço para organizar o conhecimento que adquiri até aqui.',
       en: 'My "library of Alexandria": a space to organize the knowledge I have gained so far.',
@@ -95,7 +95,7 @@ const projects = [
     color: "linear-gradient(135deg,#6a5acd,#2b2b6b)",
     url: "https://projetoaprendiz.vercel.app/",
     linkLabel: "view",
-    tags: ["Vue", "Web"],
+    tags: ["Vue", "Quasar", "Node.js", "Express", "PostgreSQL", "Neon"],
     description: {
       pt: "Página para gerenciar os conteúdos das aulas do Projeto Aprendiz.",
       en: "A page to manage the class content of Projeto Aprendiz.",
@@ -112,7 +112,7 @@ const projects = [
     color: "linear-gradient(135deg,#e34c26,#7a2a14)",
     url: "https://github.com/RaquelNeres/PagModelo",
     linkLabel: "code",
-    tags: ["HTML", "IA"],
+    tags: ["Python", "Flask", "TensorFlow", "Keras", "OpenCV", "Docker", "HTML", "CSS"],
     description: {
       pt: "Página do modelo de IA para análise de imagens médicas desenvolvido na pesquisa.",
       en: "Page for the AI model for medical image analysis developed in my research.",
@@ -129,7 +129,7 @@ const projects = [
     color: "linear-gradient(135deg,#f59e0b,#b45309)",
     url: "https://github.com/RaquelNeres/CLASSIFICACAO-DE-IMAGENS-DE-OCT-COM-IA-INTERPRETAVEL",
     linkLabel: "view",
-    tags: ["Python", "TensorFlow", "IA"],
+    tags: ["Python", "TensorFlow", "Keras", "Grad-CAM"],
     description: {
       pt: "Aplicação web do modelo de IA da minha pesquisa: envie uma imagem OCT e receba a classificação.",
       en: "Web app for the AI model from my research: upload an OCT image and get its classification.",
